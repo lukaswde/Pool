@@ -1,1 +1,2 @@
-# Pool
+# Pool version 2.0 flutter
+Changes are coming soon...
